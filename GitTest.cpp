@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello RemoteTest VisualStudio Git\n";
+    std::cout << "Hello ConflictChanged Git\n";
     std::cout << "VisualStudio Git\n";
     std::cout << "New Branch Changed!\n";
     std::cout << "New Branch\n";
